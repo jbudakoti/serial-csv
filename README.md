@@ -1,2 +1,2 @@
 # serial-csv
-stream serial data into csv 
+Stream serial sensor data and store to .csv file.
